@@ -1,0 +1,11 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Express, Sequelize and Nunjucks setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
